@@ -33,7 +33,7 @@ visualize(pairs)
 ```
 
 ## Output Examples
-<p style="display: inline-block;">
-  <img width="500" src="https://github.com/NikitaTurbo/character-relationship-visualizer/blob/main/Samples/alice_in_wonderland_en.png" alt="en">
-  <img width="500" src="https://github.com/NikitaTurbo/character-relationship-visualizer/blob/main/Samples/alice_in_wonderland_ru.png" alt="ru">
+<p align="center">
+  <img width="100%" src="https://github.com/NikitaTurbo/character-relationship-visualizer/blob/main/Samples/alice_in_wonderland_en.png" alt="en">
+  <img width="100%" src="https://github.com/NikitaTurbo/character-relationship-visualizer/blob/main/Samples/alice_in_wonderland_ru.png" alt="ru">
 </p>
